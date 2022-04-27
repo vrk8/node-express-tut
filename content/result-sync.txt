@@ -1,0 +1,25 @@
+Hello World,
+2022-04-26T21:16:13.558Z
+Here is the merged result:
+Hello this is first text file
+Hey, this is second text file.
+Has two lines.
+EOF
+2022-04-26T21:16:18.971Z
+Here is the merged result:
+Hello this is first text file
+Hey, this is second text file.
+Has two lines.
+EOF
+2022-04-26T21:48:13.629Z
+Here is the merged result:
+Hello this is first text file
+Hey, this is second text file.
+Has two lines.
+EOF
+2022-04-26T21:53:31.706Z
+Here is the merged result:
+Hello this is first text file
+Hey, this is second text file.
+Has two lines.
+EOF
